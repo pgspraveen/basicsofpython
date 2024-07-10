@@ -619,14 +619,14 @@ for i,j in dict.items():
         return n*fact(n-1)        
 print(fact(3))'''
 #fibonacci series
-def fib(n):
+'''def fib(n):
     if n==0:
         return 0
     elif n==1:
         return 1        
     else:
         return fib(n-1)+fib(n-2)
-print(fib(4))
+print(fib(4))'''
 #without parameter,without return value
 '''a=5
 b=6
